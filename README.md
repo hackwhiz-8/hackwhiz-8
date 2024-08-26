@@ -1,4 +1,4 @@
-<div  align="center">
+<div  align="center" style={{color:"red"}}>
   <p>hey there, welcome to my Github profile</p>
 </div>
 <div id="header" align="center">
