@@ -1,5 +1,6 @@
 <div  align="center" style={{color:"red"}}>
   <h1>hey there, welcome to my Github profile</h1>
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <div><a href="https://divdotdevs.netlify.app/">Portfolio</a></div>
 </div>
 <div id="header" align="center">
@@ -16,11 +17,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=hackwhix-8&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <img src="https://komarev.com/ghpvc/?username=hackwhiz-8&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29idnkzMGJyY290MjlvdmJ4N3dzY2F5c2l5ZXRuNjFtbTQ4enJ0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.webp" width="600" height="300"/>
