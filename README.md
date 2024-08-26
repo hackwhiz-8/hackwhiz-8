@@ -1,4 +1,4 @@
-<div>
+<div  align="center">
   <p>hey there, welcome to my Github profile</p>
 </div>
 <div id="header" align="center">
