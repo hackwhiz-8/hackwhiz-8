@@ -1,5 +1,5 @@
 <div  align="center" style={{color:"red"}}>
-  <p>hey there, welcome to my Github profile</p>
+  #hey there, welcome to my Github profile
 </div>
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBiZW5udmM4ZWt4ejJlMWthM3ZqdDNnNGV0ODY0OXB2MzhqdzQzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KszkcokOMwO6s2aJ99/giphy.webp" width="100"/>
