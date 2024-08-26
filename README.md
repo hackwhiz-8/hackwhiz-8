@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, solved over 270+ questions and read tech articles.
-- Secured third Prize in Hackathom organised by Maharaja college, Jaipur.
+- 🥉 Secured third Prize in Hackathom organised by Maharaja college, Jaipur.
 - Growing up with a passion for both technology and the arts, I found my calling as a web developer, where I blend creativity with technical skill. My journey is fueled by a love for dancing, traveling, and connecting with people from all walks of life. Each new interaction and experience sharpens my keen observational skills, which I channel into crafting engaging and intuitive digital experiences. Whether I'm on the dance floor, exploring a new city, or diving into a coding project, I strive to infuse every aspect of my work with the same enthusiasm and curiosity that drive me personally.
 ---
 
