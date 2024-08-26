@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBiZW5udmM4ZWt4ejJlMWthM3ZqdDNnNGV0ODY0OXB2MzhqdzQzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KszkcokOMwO6s2aJ99/giphy.webp)" width="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBiZW5udmM4ZWt4ejJlMWthM3ZqdDNnNGV0ODY0OXB2MzhqdzQzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KszkcokOMwO6s2aJ99/giphy.webp" width="100"/>
   
  <div id="badges">
   <a href="https://www.linkedin.com/in/mohit-s-3747a31ba/">
@@ -19,7 +19,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29idnkzMGJyY290MjlvdmJ4N3dzY2F5c2l5ZXRuNjFtbTQ4enJ0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.webp)" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29idnkzMGJyY290MjlvdmJ4N3dzY2F5c2l5ZXRuNjFtbTQ4enJ0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.webp" width="600" height="300"/>
 </div>
 
 ---
