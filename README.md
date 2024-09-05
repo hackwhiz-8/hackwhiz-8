@@ -1,5 +1,5 @@
 <div  align="center" style={{color:"red"}}>
-  <h1>hey there, welcome to my Github profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>hey there, welcome to my Github mohit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
    
   <div><a href="https://divdotdevs.netlify.app/">Portfolio</a></div>
 </div>
